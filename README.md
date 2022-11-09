@@ -1,7 +1,7 @@
 
 # Hangman project
 ## Description.
-Hangman project developed using react and CSS.
+Hangman project developed using React, Typescript and CSS.
 
 ## Installing the project
 Clone or download ther repository and run npm install, in order to install all the necessary packages.
